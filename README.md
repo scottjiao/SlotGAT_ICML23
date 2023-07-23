@@ -18,9 +18,15 @@ Please cite our paper if you use the code or data.
 ```
 
 
-## Important Note
+## Data and trained models
 
-Please use `git-lfs` to download the data and trained models. 
+The data and trained models could be downloaded in the following link:
+
+
+* LP: https://drive.google.com/drive/folders/1mFAlrQwQeKLEJ3Tv8fatmHninRn6Fj68?usp=drive_link
+* NC: https://drive.google.com/drive/folders/1Ga68xitx5MMxT7XW95xIQiJFs2qgS1z1?usp=drive_link
+
+You should place the data and trained models with the same directory structure as in the google drive link above.
 
 ## Note
 
