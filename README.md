@@ -1,7 +1,7 @@
 
 # SlotGAT: Slot-based Message Passing for Heterogeneous Graphs (ICML 2023)
 
-This is code and data for SlotGAT: Slot-based Message Passing for Heterogeneous Graphs (ICML 2023)
+Code and data for SlotGAT: Slot-based Message Passing for Heterogeneous Graphs (ICML 2023)
 
 Please cite our paper if you use the code or data.
 
