@@ -28,9 +28,6 @@ The data and trained models could be downloaded in the following link:
 
 You should place the data and trained models with the same directory structure as in the google drive link above.
 
-## Note
-
-Please see the README.md in the `NC` (Node Classification) folder  and `LP` (Link Prediction) folder for more details. 
 
 ## Scripts
 
